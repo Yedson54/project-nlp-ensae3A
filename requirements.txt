@@ -1,0 +1,12 @@
+matplotlib
+missingno
+numpy
+pandas
+seaborn
+scikit-learn
+wordcloud
+
+# 
+pylint
+black
+autopep8
